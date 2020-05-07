@@ -1,0 +1,1 @@
+Fixed code version of this HashiCorp Learn Article https://learn.hashicorp.com/terraform/aws/lambda-api-gateway
